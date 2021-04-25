@@ -1,0 +1,86 @@
+.a{
+    margin-left: 25%;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 40px;
+    
+}
+.resume{border: solid;
+    border-color: black;
+    background-color: rgb(29, 247, 247);
+    margin-left: 41%;
+    margin-right: 41%;
+    
+}
+.b{border: solid;
+    border-color: black;
+    background-color: rgb(29, 247, 247);
+    font-family: 'Maven Pro', sans-serif;
+
+}
+.f{
+    border: solid;
+    border-color: black;
+    background-color: rgb(29, 247, 247);
+    font-family: 'Maven Pro', sans-serif;
+}
+.f1{
+    border: solid;
+    border-color: black;
+    background-color: rgb(29, 247, 247);
+    font-family: 'Maven Pro', sans-serif;
+}
+.c{
+    margin-right: 10px;
+    margin-left: 10px;
+    text-align: center;
+    font-size: 50px;
+  background-color:aliceblue;
+}
+.d{
+    float: right;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    
+  }
+  .e{
+      font-size: x-large;
+  }
+  a:hover {
+  background-color: yellow;
+}
+table, th, td {
+  border: 2px solid black;
+}
+.t{
+    margin-left: 275px;
+    margin-bottom: 20px;
+    font-size: large;
+}
+.tt{
+    margin-left: 600px;
+    margin-bottom: 20px;
+    font-size: x-large;
+}
+.t1{
+    margin-left: 90px;
+    margin-bottom: 20px;
+    font-size: medium;
+}
+.th{
+    margin-left: 275px;
+}
+.dd{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Maven Pro', sans-serif;
+}
+.w{
+    margin-left: 10px;
+}
+img {
+  border: 5px solid black;
+}
+.abc{font-family: 'Maven Pro', sans-serif;
+font-weight: 600;
+
+}
